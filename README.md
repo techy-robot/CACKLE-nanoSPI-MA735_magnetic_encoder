@@ -1,8 +1,12 @@
 ---
-modified: 2025-05-05T16:26:33-07:00
+modified: 2025-11-07T22:07:46-07:00
 ---
 
 # nanoSPI MA735 magnetic encoder
+
+> [!TIP]
+> This board is part of a larger modular control board ecosystem, [CACKLE](https://github.com/techy-robot/CACKLE)
+
 
 This is a super compact SPI magnetic encoder, with the flex cable being 2.4mm wide and 100mm long, and the tip around 5.6mm diameter. It is quite simple, and supports on shaft or side-shaft mounting with correction.
 
