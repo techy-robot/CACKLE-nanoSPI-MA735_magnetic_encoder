@@ -1590,8 +1590,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "MA735 Encoder"
-		(at 152.18 90.31 270)
+	(gr_text "MA735 Encoder ${REVISION}"
+		(at 152.18 88.57 270)
 		(layer "F.SilkS")
 		(uuid "406695dd-3c18-49f8-9754-52810c1a66b4")
 		(effects
@@ -1649,6 +1649,25 @@
 				(size 0.5 0.5)
 				(thickness 0.125)
 				(bold yes)
+			)
+			(justify left top)
+		)
+		(border yes)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+	)
+	(gr_text_box "0.1mm thick stiffener"
+		(start 168.54 59.94)
+		(end 181.76 65.37)
+		(margins 1.0025 1.0025 1.0025 1.0025)
+		(layer "User.2")
+		(uuid "973836fe-328f-448c-beca-92e250b34a71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left top)
 		)
