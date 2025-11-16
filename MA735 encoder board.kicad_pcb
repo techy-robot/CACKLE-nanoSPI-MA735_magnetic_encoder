@@ -1528,6 +1528,54 @@
 		(layer "User.2")
 		(uuid "7942c8c3-c859-4f8d-9a6b-bff5187239aa")
 	)
+	(gr_text "Length: 100mm "
+		(at 152.26 107.36 270)
+		(layer "F.SilkS")
+		(uuid "07135377-e3ab-4f23-bb7b-6cf0253829c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Designed by Asher Edwards"
+		(at 152.32 59.13 270)
+		(layer "F.SilkS")
+		(uuid "32bc1fdf-936f-4b77-8285-8b5e7c7ba8fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "MA735 Encoder"
+		(at 152.18 90.31 270)
+		(layer "F.SilkS")
+		(uuid "406695dd-3c18-49f8-9754-52810c1a66b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "https://github.com/techy-robot/CACKLE-nanoSPI-MA735_magnetic_encoder"
+		(at 153.23 50.51 90)
+		(layer "B.SilkS")
+		(uuid "90cb27ec-a23c-4595-b08d-09eee79ad42a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "0.1mm thick stiffener"
 		(at 154.7 31.5 0)
 		(layer "Dwgs.User")
